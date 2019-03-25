@@ -9,7 +9,7 @@ $this->title = 'Yii Application kulo';
     <div class="jumbotron">
         <h1>Sugeng Rawuh :)</h1>
 
-        <p class="lead">You have successfully created your Yii-powered application.</p>
+        <p class="lead">panjenengan saniki wonten ing wordprese kulo</p>
 
         <p><a class="btn btn-lg btn-success" href="http://www.yiiframework.com">Get started with Yii</a></p>
     </div>
@@ -20,10 +20,7 @@ $this->title = 'Yii Application kulo';
             <div class="col-lg-4">
                 <h2>Heading</h2>
 
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-                    dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-                    ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-                    fugiat nulla pariatur.</p>
+                <p>ing kang kaping pisan kito sedhoyo panjatna puja lan puji syukur dumateng gusti Allah ing kang sampun paring kesehatan, kanikmatan ing kang katah, hidayan lan inayah kangge kito sedhoyo.</p>
 
                 <p><a class="btn btn-default" href="http://www.yiiframework.com/doc/">Yii Documentation &raquo;</a></p>
             </div>

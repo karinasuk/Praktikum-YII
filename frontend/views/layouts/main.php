@@ -38,8 +38,10 @@ AppAsset::register($this);
     $menuItems = [
         ['label' => 'Home', 'url' => ['/site/index']],
         ['label' => 'Salam', 'url' => ['/site/salam']],
-        ['label' => 'Mahasiswa', 'url' => ['/site/mahasiswa']],
+        ['label' => 'Mahasiswa', 'url' => ['/mahasiswa/index']],
+        ['label' => 'Nilai', 'url' => ['/mahasiswa/nilai']],
         ['label' => 'Prodi', 'url' => ['/prodi/index']],
+        ['label' => 'Data', 'url' => ['/dosen/data']],
         ['label' => 'About', 'url' => ['/site/about']],
         ['label' => 'Contact', 'url' => ['/site/contact']],
     ];
